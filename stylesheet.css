@@ -1,0 +1,30 @@
+body {
+    background-color: #59CC83; 
+    text-align: center;
+}
+h3  {
+    padding: 5px;
+    background-color: black;
+    border-radius:3px;
+    color: white;
+    display:inline-block;  
+}
+button {
+    border-block-color: black;
+    border-radius:3.5px;
+    font-size: 10px;
+    padding-bottom:4px;
+    padding-top:4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: black;
+    background-color: transparent;
+    text-align: center;
+}
+h3 {
+    margin-top: 225px;  
+}
+
+#blue{
+    color:dodgerblue;
+}
